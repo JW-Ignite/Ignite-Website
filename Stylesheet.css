@@ -2,3 +2,10 @@
 html {
    background-color: rgb(173, 189, 227);
 }
+p, ol{
+    color: black;
+    ;
+}
+h1, h2{
+    color: teal;
+}
